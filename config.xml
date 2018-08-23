@@ -19,7 +19,7 @@
     <preference name="SplashShowOnlyFirstTime" value="false" />
     <preference name="SplashScreen" value="screen" />
     <preference name="SplashScreenDelay" value="3000" />
-    <preference name="CRIInjectFirstFiles" value="www/assets/test/init.js" />
+    <preference name="CRIInjectFirstFiles" value="www/assets/js/init.js" />
     <preference name="CRIPageLoadPromptInterval" value="5" />
     <platform name="android">
         <allow-intent href="market:*" />

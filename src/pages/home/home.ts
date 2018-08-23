@@ -18,7 +18,7 @@ export class HomePage {
   }
 
   urlpaste(){
-    this.url = "/assets/test/index.html";
+    this.url = "http://nadin74.ru/";
     return this.sanitize.bypassSecurityTrustResourceUrl(this.url);
   }
 
